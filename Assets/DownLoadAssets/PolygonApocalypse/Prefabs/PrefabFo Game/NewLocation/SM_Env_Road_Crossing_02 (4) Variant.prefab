@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8379741003696913094
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1920523142770900, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_Name
+      value: SM_Env_Road_Crossing_02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -59
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4446408484682224, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e72b6341abf7a043bc11e88e1d67523, type: 3}
