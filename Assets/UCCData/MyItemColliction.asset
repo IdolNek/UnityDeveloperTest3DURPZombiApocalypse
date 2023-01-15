@@ -29,6 +29,22 @@ MonoBehaviour:
   m_CategoryIDs: 
   m_Description: 
   m_Capacity: 100
+--- !u!114 &-2501393564306104166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: MyBody
+  m_EditorClassIdentifier: 
+  m_ID: 3
+  m_CategoryIDs: 77c4485f
+  m_Description: 
+  m_Capacity: 2147483647
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47,6 +63,7 @@ MonoBehaviour:
   - {fileID: 3484889475116033310}
   - {fileID: -6245349914953816786}
   - {fileID: 130029259043390831}
+  - {fileID: -2501393564306104166}
 --- !u!114 &130029259043390831
 MonoBehaviour:
   m_ObjectHideFlags: 0
