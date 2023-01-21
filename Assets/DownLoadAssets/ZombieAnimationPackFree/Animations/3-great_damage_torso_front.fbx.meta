@@ -853,12 +853,39 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
-      does not match:\n\tTransform 'UpperLeg_L' for human bone 'LeftUpperLeg' not
-      found\n"
-    rigImportWarnings: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'LeftToes'
+      : position error = 17.893766 mm\n\t'LeftEye' : position error = 12.035667 mm\n\t'Jaw'
+      : position error = 104.133781 mm\n\t'RightEye' : position error = 12.372075
+      mm\n\t'LeftThumbProximal' : position error = 19.217211 mm\n\t'LeftThumbIntermediate'
+      : position error = 8.027463 mm\n\t'LeftThumbDistal' : position error = 6.405731
+      mm\n\t'LeftIndexProximal' : position error = 10.320477 mm\n\t'LeftIndexIntermediate'
+      : position error = 12.269906 mm\n\t'LeftIndexDistal' : position error = 4.128151
+      mm\n\t'LeftMiddleProximal' : position error = 9.288425 mm\n\t'LeftMiddleIntermediate'
+      : position error = 15.136734 mm\n\t'LeftRingProximal' : position error = 15.136741
+      mm\n\t'LeftRingIntermediate' : position error = 14.219323 mm\n\t'LeftRingDistal'
+      : position error = 1.261393 mm\n\t'LeftLittleProximal' : position error = 17.315491
+      mm\n\t'LeftLittleIntermediate' : position error = 7.912381 mm\n\t'LeftLittleDistal'
+      : position error = 2.637456 mm\n\t'RightIndexProximal' : position error = 10.510921
+      mm\n\t'RightIndexIntermediate' : position error = 13.330914 mm\n\t'RightIndexDistal'
+      : position error = 4.229977 mm\n\t'RightMiddleProximal' : position error =
+      9.229070 mm\n\t'RightMiddleIntermediate' : position error = 15.125494 mm\n\t'RightMiddleDistal'
+      : position error = 1.153677 mm\n\t'RightRingProximal' : position error = 13.587289
+      mm\n\t'RightRingIntermediate' : position error = 13.202719 mm\n\t'RightRingDistal'
+      : position error = 1.922690 mm\n\t'RightLittleProximal' : position error =
+      17.304642 mm\n\t'RightLittleIntermediate' : position error = 8.716401 mm\n\t'RightLittleDistal'
+      : position error = 3.204551 mm\n\t'RightThumbProximal' : position error = 16.897799
+      mm\n\t'RightThumbIntermediate' : position error = 5.933573 mm\n\t'RightThumbDistal'
+      : position error = 6.062629 mm\n\t'RightToes' : position error = 17.893682
+      mm\n"
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'Story clip export' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'LeftLowerLeg' has translation animation
+      that will be discarded.\n\t'LeftLowerArm' has translation animation that will
+      be discarded.\n\t'RightLowerArm' has translation animation that will be discarded.\n\t'RightLowerLeg'
+      has translation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
