@@ -247,6 +247,9 @@ MonoBehaviour:
   - m_Object: {fileID: 100002, guid: c5713b57c62a91248b9c4dcb5d81bc78, type: 3}
     m_Probability: 1
     m_RandomSpin: 0
+  - m_Object: {fileID: 100000, guid: 97257138de455fe4c98831c37500d90d, type: 3}
+    m_Probability: 1
+    m_RandomSpin: 0
   m_OnImpactEvent:
     m_PersistentCalls:
       m_Calls: []
